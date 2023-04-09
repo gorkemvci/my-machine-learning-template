@@ -1,0 +1,18 @@
+country, height, weight, age, gender
+tr,180,90,30,man
+tr,190,80,,man
+tr,175,90,35,man
+tr,177,60,22,woman
+us,185,105,,man
+us,165,55,27,woman
+us,155,50,44,woman
+us,160,58,39,woman
+us,162,59,41,woman
+us,167,62,55,woman
+fr,174,70,47,man
+fr,193,90,23,man
+fr,187,80,27,man
+fr,183,88,28,man
+fr,159,40,29,woman
+fr,164,66,,woman
+fr,166,56,42,woman
