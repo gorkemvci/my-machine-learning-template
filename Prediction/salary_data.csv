@@ -1,0 +1,11 @@
+position,education_level,salary
+employee,1,2250
+secretary,2,2500
+mid,3,3000
+senior,4,4000
+project_manager,5,5500
+chef,6,7500
+manager,7,10000
+director,8,15000
+c-level,9,25000
+ceo,10,50000
